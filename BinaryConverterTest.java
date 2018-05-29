@@ -50,3 +50,5 @@ public class BinaryConverterTest {
         return all;
     }
 }
+
+/*file is just modifing to check the commit -a command
